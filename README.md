@@ -102,7 +102,7 @@ You will want the latest version of npm installed. For reference, this project w
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jmfiola/jest-api-test-typescript-example.git
+   git clone https://github.com/MateusbrMedeiros/qa-test.git
    ```
 3. Install NPM packages
    ```npm
@@ -145,22 +145,6 @@ See the [open issues](https://github.com/jmfiola/jest-api-test-typescript-exampl
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. My venmo is [@Jacob-Fiola](https://account.venmo.com/u/Jacob-Fiola)! 😉
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
@@ -172,31 +156,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/jmfiola/jest-api-test-typescript-example](https://github.com/jmfiola/jest-api-test-typescript-example)
-
-Email: jmfiola21@gmail.com
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jmfiola/jest-api-test-typescript-example.svg?style=for-the-badge
-[contributors-url]: https://github.com/jmfiola/jest-api-test-typescript-example/graphs/contributors
-[build-shield]: https://img.shields.io/github/workflow/status/jmfiola/jest-api-test-typescript-example/CI.svg?style=for-the-badge
-[build-url]: https://github.com/jmfiola/jest-api-test-typescript-example/actions
-[forks-shield]: https://img.shields.io/github/forks/jmfiola/jest-api-test-typescript-example.svg?style=for-the-badge
-[forks-url]: https://github.com/jmfiola/jest-api-test-typescript-example/network/members
-[stars-shield]: https://img.shields.io/github/stars/jmfiola/jest-api-test-typescript-example.svg?style=for-the-badge
-[stars-url]: https://github.com/jmfiola/jest-api-test-typescript-example/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jmfiola/jest-api-test-typescript-example.svg?style=for-the-badge
-[issues-url]: https://github.com/jmfiola/jest-api-test-typescript-example/issues
-[license-shield]: https://img.shields.io/github/license/jmfiola/jest-api-test-typescript-example.svg?style=for-the-badge
-[license-url]: https://github.com/jmfiola/jest-api-test-typescript-example/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/jacob-fiola
-[product-screenshot]: images/screenshot.png
